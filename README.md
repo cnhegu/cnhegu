@@ -1,4 +1,4 @@
-# 👷‍♂️ Hi, I'm cnhegu!
+# 👷‍♂️ Hi, I'm hegu!
 
 Welcome to my GitHub profile!
 
