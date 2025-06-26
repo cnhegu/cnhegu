@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👷‍♂️ Hi, I'm cnhegu!
 
-<!--
-**cnhegu/cnhegu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🏗️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Profession:** Construction Worker  
+- **Current Focus:** Learning Python and exploring the world of Machine Learning  
+- **Background:** Building structures by day, building code by night. I'm passionate about using technology to create and solve problems.
+
+## 🚀 Skills & Interests
+
+- 🐍 Python (beginner, always learning!)
+- 🤖 Machine Learning (just getting started)
+- 🧱 Construction & Engineering
+
+## 🌐 Connect with Me
+
+- [X (Twitter)](https://x.com/NullCause)
+- [Facebook](https://www.facebook.com/xchegu)
+- [My Blog](https://www.hegu.me)
+
+## 💡 Fun Fact
+
+> "Attention is All You Need."
+
+I believe in focusing on what matters, whether it's on a construction site or in lines of code.
+
+---
+
+Thanks for stopping by! Feel free to connect or follow my journey as I transition from construction to code. 🚧➡️💻
