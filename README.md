@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 ## 🌐 Connect with Me
 
-- [X (Twitter)](https://x.com/NullCause)
+- [X (Twitter)](https://x.com/gulogx)
 - [Facebook](https://www.facebook.com/xchegu)
 - [My Blog](https://www.hegu.me)
 
