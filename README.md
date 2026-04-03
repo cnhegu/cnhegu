@@ -29,3 +29,4 @@ I believe in focusing on what matters, whether it's on a construction site or in
 ---
 
 Thanks for stopping by! Feel free to connect or follow my journey as I transition from construction to code. 🚧➡️💻
+
